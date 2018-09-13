@@ -1,2 +1,2 @@
 # Vagrantfile-firedotVbox
-Vagrantfile for the firedot/ubuntu-1604 box
+Vagrantfile for the firedot/xenial64 box. 
